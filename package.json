@@ -2,9 +2,9 @@
   "name": "bot-viacelli-limpo",
   "version": "1.0.0",
   "description": "Chatbot Viacelli",
-  "main": "chatbot.js",  // Alterar para o nome correto do seu arquivo
+  "main": "chatbot.js",
   "scripts": {
-    "start": "node chatbot.js"  // Alterar para o nome correto do seu arquivo
+    "start": "node chatbot.js"
   },
   "dependencies": {
     "moment-timezone": "^0.5.45",
