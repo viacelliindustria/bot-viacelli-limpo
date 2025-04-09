@@ -1,4 +1,11 @@
 {
+  "name": "bot-viacelli-limpo",
+  "version": "1.0.0",
+  "description": "Chatbot Viacelli",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "moment-timezone": "^0.5.45",
     "qrcode-terminal": "^0.12.0",
