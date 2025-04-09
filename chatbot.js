@@ -114,3 +114,4 @@ client.on('message', async msg => {
         );
     }
 });
+// testando autenticação
